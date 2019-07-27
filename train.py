@@ -1,6 +1,5 @@
 import os
 from collections import OrderedDict
-import pretrainedmodels
 import argparse
 import torch
 import torch.nn as nn 
